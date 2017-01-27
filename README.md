@@ -1,3 +1,4 @@
 # hello-world
-Learn to use github
-This is a way to learn git-hub branches.
+Learn to use github. Change this line
+Add this line
+Add this note - deleted line 3
